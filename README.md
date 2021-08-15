@@ -1,6 +1,6 @@
 ### Olá! Eu sou Vinicius Dias👋
 
-- 🔭Hoje estou apredendo a desenvolver e buscando oportunidades da área.
+- 🔭Hoje estou apredendo a desenvolver e buscando oportunidades na área.
 - 🌱 Estou estudando Java e Python.
 - 😄 Pronouns: ele/dele
 
