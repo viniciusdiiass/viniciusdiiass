@@ -1,7 +1,7 @@
 ### Olá! Eu sou Vinicius Dias👋
 
-- 🔭Hoje estou apredendo a desenvolver e buscando oportunidades na área.
-- 🌱 Estou estudando Java e Python.
+- 🔭Estágiario de Desenvolvimento de Software.
+- 🌱 Python e Node.JS.
 - 😄 Pronouns: ele/dele
 
  <div>
@@ -11,8 +11,10 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Vini-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Vini-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vini-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="right" alt="vini-gif" height="200" width="200" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_DNRfy2ma.png">
   
 </div>
